@@ -7,6 +7,6 @@ describe('Check Map', () => {
       .visit('https://qa.kubra.io/stormcenter/views/729ad91e-a0d4-4b30-bcc9-5eb747c25fd4/?c=01-SeparateWithSwitching&o=ViewByAreaEN')
       .wait('@map')
       .get('[style="z-index: 3; position: absolute; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; left: 0px; top: 0px; touch-action: pan-x pan-y;"]').click()
-      .get('[data-cy="info-box-field-value-n_out"]').should('have.text', '8');
+      //.get('[data-cy="info-box-field-value-n_out"]').should('have.text', '8');
     })
   })
