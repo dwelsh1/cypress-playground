@@ -1,0 +1,8 @@
+{
+  "envName": "qa",
+  "baseUrl": "https://qa.kubra.io",
+  "Url1": "https://qa.kubra.io/stormcenter/views/b004c2bb-6404-461b-b8ad-65d2dca1c625",
+  "Url2": "https://qa.kubra.io/stormcenter/views/41a10a75-d0f1-40f6-a779-0e7db8fbdff4",
+  "Url3": "https://qa.kubra.io/stormcenter/views/c518d53e-6822-453c-b8bd-5867d19182bc",
+  "experimentalStudio": true
+}
