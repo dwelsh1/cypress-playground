@@ -10,7 +10,7 @@
     "cypress/no-force": "warn",
     "cypress/no-async-tests": "error",
     "cypress/no-pause": "error",
-    "semi": ["warn", "always"],
+    "semi": ["warn", "never"],
     "indent": ["error", 2]
   }
 }
